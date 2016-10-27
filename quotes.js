@@ -6,7 +6,7 @@ module.exports = function() {
   "\"Wax on, wax off.\" – Karate Kid",
   "\"I’ll be back.\" – The Terminator",
   "\"Come with me if you want to live.\" -- The Terminator",
-  "\"If my calculations are correct, when this baby hits eighty-eight miles an hour, you’re going to see some serious shit.\" – Back To The Future",
+  "\"If my calculations are correct, when this baby hits 88 miles an hour, you’re going to see some serious shit.\" – Back To The Future",
   "\"Great Scott!\" -- Back To The Future",
   "\"That's heavy.\" -- Back To The Future",
   "\"Now make like a tree, and get outta here.\" -- Back To The Future",
